@@ -28,5 +28,3 @@ This project demonstrates how capacitance, charge, and stored energy change dyna
 - **SVG for Visualization**
 - **Custom Components** (Sliders, Selects, Result Cards)
 
----
->>>>>>> 8ede571c5d84a2009d944e6c26cd1a9cd11eafad
